@@ -1,5 +1,6 @@
-## Hi there 👋
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:2A00FF&height=200&section=header&text=Frontend%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 <!--
 **MuhammadiyevOzodbek/MuhammadiyevOzodbek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
