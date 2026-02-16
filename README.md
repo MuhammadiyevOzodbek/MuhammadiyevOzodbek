@@ -35,6 +35,21 @@ Currently in WORK MODE 🛠 — creating new features, optimizing, and improving
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
+<hr>
+
+## 🚀 Featured Projects
+
+| Name | Description |
+|------|--------------|
+| 🏢 **UiC Group Clone** | UIC Group website clone built with React JS and TailwindCSS. |
+| 📰 **My Personal Portfolio | This is a personal project built to improve my React JS and TailwindCSS skills. |
+
+<hr>
+
+## 🔗 Connect With Me
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Muhammadiyev_Ozodbek)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yusupovjavoxir11@gmail.com)
 <!--
 **MuhammadiyevOzodbek/MuhammadiyevOzodbek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
