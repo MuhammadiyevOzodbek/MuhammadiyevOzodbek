@@ -42,7 +42,7 @@ Currently in WORK MODE 🛠 — creating new features, optimizing, and improving
 | Name | Description |
 |------|--------------|
 | 🏢 **UiC Group Clone** | UIC Group website clone built with React JS and TailwindCSS. |
-| 📰 **My Personal Portfolio | This is a personal project built to improve my React JS and TailwindCSS skills. |
+| 📰 **My Personal Portfolio** | This is a personal project built to improve my React JS and TailwindCSS skills. |
 
 <hr>
 
