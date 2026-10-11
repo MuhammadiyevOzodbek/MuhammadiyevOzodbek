@@ -1,116 +1,141 @@
-<!-- ================= HEADER ================= -->
+<!-- ═══════════════════════ HEADER ═══════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Ozodbek%20Muhammadiyev&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Fullstack%20Developer%20%E2%80%A2%20React%20%E2%80%A2%20Node.js%20%E2%80%A2%20PostgreSQL&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,40:1E1B4B,75:4C1D95,100:0EA5E9&height=240&section=header&text=Ozodbek%20Muhammadiyev&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Developer%20%C2%B7%20Next.js%20%C2%B7%20Node.js%20%C2%B7%20PostgreSQL&descAlignY=60&descSize=17&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Fullstack+JavaScript+Developer;React+%2B+TailwindCSS+on+the+frontend;Node.js+%2B+Express+on+the+backend;PostgreSQL+for+reliable+data;Building+products+end-to-end+%F0%9F%9A%80" alt="Typing SVG" />
+  <a href="https://github.com/MuhammadiyevOzodbek">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=800&color=A78BFA&center=true&vCenter=true&width=720&lines=Fullstack+JavaScript+Developer;Next.js+%26+React+for+fast+modern+UIs;Node.js+%2B+Express+REST+APIs;PostgreSQL+for+reliable+data;Turning+Figma+designs+into+real+products" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://t.me/Muhammadiyev_Ozodbek"><img src="https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://github.com/MuhammadiyevOzodbek"><img src="https://img.shields.io/github/followers/MuhammadiyevOzodbek?label=Followers&style=for-the-badge&logo=github&color=181717" /></a>
-  <img src="https://komarev.com/ghpvc/?username=MuhammadiyevOzodbek&style=for-the-badge&color=38BDF8&label=Profile+Views" />
+  <a href="https://t.me/Muhammadiyev_Ozodbek"><img src="https://img.shields.io/badge/Telegram-Let's_talk-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0B0F19" /></a>
+  <img src="https://img.shields.io/badge/Status-Open_to_work-22C55E?style=for-the-badge&labelColor=0B0F19" />
+  <img src="https://img.shields.io/badge/Based_in-Uzbekistan_🇺🇿-A78BFA?style=for-the-badge&labelColor=0B0F19" />
+  <img src="https://komarev.com/ghpvc/?username=MuhammadiyevOzodbek&style=for-the-badge&color=0EA5E9&labelColor=0B0F19&label=VIEWS" />
 </p>
 
----
+<br/>
 
-## 👋 About Me
+<!-- ═══════════════════════ ABOUT ═══════════════════════ -->
+<h2>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
+  About Me
+</h2>
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="" />
+```ts
+const ozodbek = {
+  role: "Fullstack Developer",
+  location: "Uzbekistan 🇺🇿",
+  frontend: ["Next.js", "React", "TypeScript-ready", "TailwindCSS", "Sass"],
+  backend:  ["Node.js", "Express", "PostgreSQL", "Supabase"],
+  design:   ["Figma", "UI/UX", "Responsive & Mobile-first"],
+  focus:    "Clean UI · Fast performance · Scalable architecture",
+  status:   "🛠 Work mode — shipping something new every day",
+};
+```
 
-- 🇺🇿 Fullstack developer from **Uzbekistan**
-- 🎨 Frontend: clean, fast and responsive interfaces with **React** & **TailwindCSS**
-- ⚙️ Backend: REST APIs with **Node.js**, **Express** and **PostgreSQL**
-- 🧠 Care about **UI/UX**, simplicity and scalable code architecture
-- 🛠 Currently in **work mode** — shipping features and improving every day
-- 💬 Ask me about **React, Node.js, SQL, UI design**
+<br/>
 
-<br clear="right"/>
-
----
-
-## 🧰 Tech Stack
+<!-- ═══════════════════════ STACK ═══════════════════════ -->
+<h2>🧰 Tech Stack</h2>
 
 <table align="center">
   <tr>
-    <td align="center" width="140"><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,react&theme=dark" /></td>
+    <th align="left" width="150">🎨 Frontend</th>
+    <td><img src="https://skillicons.dev/icons?i=nextjs,react,js,html,css,sass,tailwind&theme=dark" /></td>
   </tr>
   <tr>
-    <td align="center"><b>Backend</b></td>
+    <th align="left">⚙️ Backend</th>
     <td><img src="https://skillicons.dev/icons?i=nodejs,express,postgres,supabase&theme=dark" /></td>
   </tr>
   <tr>
-    <td align="center"><b>Design</b></td>
+    <th align="left">✏️ Design</th>
     <td><img src="https://skillicons.dev/icons?i=figma&theme=dark" /></td>
   </tr>
   <tr>
-    <td align="center"><b>Tools & Deploy</b></td>
+    <th align="left">🚀 Tools & Deploy</th>
     <td><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel&theme=dark" /></td>
   </tr>
 </table>
 
----
+<br/>
 
-## 🚀 Featured Projects
+<!-- ═══════════════════════ PROJECTS ═══════════════════════ -->
+<h2>🚀 Featured Projects</h2>
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🏢 UiC Group Clone</h3>
-      <p>Pixel-accurate clone of the UIC Group website with responsive layout and smooth UI.</p>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/TailwindCSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
+      <sub>Pixel-accurate clone of the UIC Group website — responsive layout, smooth animations and clean component structure.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/React-0B0F19?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/TailwindCSS-0B0F19?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
     </td>
     <td width="50%" valign="top">
-      <h3>📰 Personal Portfolio</h3>
-      <p>My personal website showcasing projects, skills and contact info — fast and mobile-first.</p>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/TailwindCSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
-      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+      <h3>✨ Personal Portfolio</h3>
+      <sub>My personal website with projects, skills and contacts — SEO-friendly, fast and mobile-first.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Next.js-0B0F19?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/TailwindCSS-0B0F19?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
+      <img src="https://img.shields.io/badge/Vercel-0B0F19?style=flat-square&logo=vercel&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <h3>🔐 Fullstack API — <i>in progress</i></h3>
-      <p>REST API with authentication (JWT), CRUD endpoints and a PostgreSQL database, connected to a React client.</p>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <h3>🔐 Fullstack App <sup><kbd>in progress</kbd></sup></h3>
+      <sub>End-to-end web app: Next.js client, Node.js + Express REST API with JWT authentication, CRUD and a PostgreSQL database.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Next.js-0B0F19?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-0B0F19?style=flat-square&logo=nodedotjs&logoColor=339933" />
+      <img src="https://img.shields.io/badge/Express-0B0F19?style=flat-square&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-0B0F19?style=flat-square&logo=postgresql&logoColor=4169E1" />
+      <img src="https://img.shields.io/badge/JWT-0B0F19?style=flat-square&logo=jsonwebtokens&logoColor=white" />
     </td>
   </tr>
 </table>
 
----
+<br/>
 
-## 📊 GitHub Stats
+<!-- ═══════════════════════ STATS ═══════════════════════ -->
+<h2>📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MuhammadiyevOzodbek&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadiyevOzodbek&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MuhammadiyevOzodbek&show_icons=true&theme=tokyonight&bg_color=0B0F19&title_color=A78BFA&icon_color=0EA5E9&text_color=E2E8F0&hide_border=true&border_radius=14&count_private=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadiyevOzodbek&layout=compact&theme=tokyonight&bg_color=0B0F19&title_color=A78BFA&text_color=E2E8F0&hide_border=true&border_radius=14&langs_count=6" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MuhammadiyevOzodbek&theme=tokyonight&hide_border=true&border_radius=12" />
+  <img src="https://streak-stats.demolab.com?user=MuhammadiyevOzodbek&theme=tokyonight&background=0B0F19&ring=A78BFA&fire=0EA5E9&currStreakLabel=A78BFA&hide_border=true&border_radius=14" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadiyevOzodbek&theme=tokyo-night&hide_border=true&area=true&radius=12" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadiyevOzodbek&bg_color=0B0F19&color=A78BFA&line=0EA5E9&point=E2E8F0&area=true&area_color=4C1D95&hide_border=true&radius=14" />
 </p>
 
----
+<!-- ═══════════════════════ SNAKE ═══════════════════════ -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammadiyevOzodbek/MuhammadiyevOzodbek/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuhammadiyevOzodbek/MuhammadiyevOzodbek/output/github-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/MuhammadiyevOzodbek/MuhammadiyevOzodbek/output/github-snake-dark.svg" />
+  </picture>
+</p>
 
-## 🤝 Let's Connect
+<br/>
+
+<!-- ═══════════════════════ CONTACT ═══════════════════════ -->
+<h2 align="center">🤝 Let's Build Something Together</h2>
 
 <p align="center">
-  <i>Open to freelance work, collaborations and interesting fullstack projects.</i>
+  <sub>Open to freelance projects, collaborations and full-time fullstack roles.</sub>
   <br/><br/>
-  <a href="https://t.me/Muhammadiyev_Ozodbek"><img src="https://img.shields.io/badge/Write_me_on_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://t.me/Muhammadiyev_Ozodbek"><img src="https://img.shields.io/badge/Message_me_on_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
-<!-- ================= FOOTER ================= -->
+<!-- ═══════════════════════ FOOTER ═══════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,25:4C1D95,60:1E1B4B,100:0B0F19&height=130&section=footer" width="100%" />
 </p>
