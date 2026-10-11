@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/MuhammadiyevOzodbek">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=800&color=A78BFA&center=true&vCenter=true&width=720&lines=Fullstack+JavaScript+Developer;Next.js+%26+React+for+fast+modern+UIs;Node.js+%2B+Express+REST+APIs;PostgreSQL+for+reliable+data;Turning+Figma+designs+into+real+products" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=800&color=A78BFA&center=true&vCenter=true&width=720&lines=Fullstack+TypeScript+Developer;Next.js+%26+React+for+fast+modern+UIs;Node.js+%2B+Express+REST+APIs;PostgreSQL+for+reliable+data;Turning+Figma+designs+into+real+products" alt="Typing SVG" />
   </a>
 </p>
 
@@ -28,7 +28,7 @@
 const ozodbek = {
   role: "Fullstack Developer",
   location: "Uzbekistan 🇺🇿",
-  frontend: ["Next.js", "React", "TypeScript-ready", "TailwindCSS", "Sass"],
+  frontend: ["Next.js", "React", "TypeScript", "TailwindCSS", "Sass"],
   backend:  ["Node.js", "Express", "PostgreSQL", "Supabase"],
   design:   ["Figma", "UI/UX", "Responsive & Mobile-first"],
   focus:    "Clean UI · Fast performance · Scalable architecture",
@@ -44,7 +44,7 @@ const ozodbek = {
 <table align="center">
   <tr>
     <th align="left" width="150">🎨 Frontend</th>
-    <td><img src="https://skillicons.dev/icons?i=nextjs,react,js,html,css,sass,tailwind&theme=dark" /></td>
+    <td><img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,sass,tailwind&theme=dark" /></td>
   </tr>
   <tr>
     <th align="left">⚙️ Backend</th>
@@ -89,6 +89,7 @@ const ozodbek = {
       <sub>End-to-end web app: Next.js client, Node.js + Express REST API with JWT authentication, CRUD and a PostgreSQL database.</sub>
       <br/><br/>
       <img src="https://img.shields.io/badge/Next.js-0B0F19?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-0B0F19?style=flat-square&logo=typescript&logoColor=3178C6" />
       <img src="https://img.shields.io/badge/Node.js-0B0F19?style=flat-square&logo=nodedotjs&logoColor=339933" />
       <img src="https://img.shields.io/badge/Express-0B0F19?style=flat-square&logo=express&logoColor=white" />
       <img src="https://img.shields.io/badge/PostgreSQL-0B0F19?style=flat-square&logo=postgresql&logoColor=4169E1" />
@@ -103,16 +104,12 @@ const ozodbek = {
 <h2>📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MuhammadiyevOzodbek&show_icons=true&theme=tokyonight&bg_color=0B0F19&title_color=A78BFA&icon_color=0EA5E9&text_color=E2E8F0&hide_border=true&border_radius=14&count_private=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MuhammadiyevOzodbek&show_icons=true&theme=tokyonight&bg_color=0B0F19&title_color=A78BFA&icon_color=0EA5E9&text_color=E2E8F0&hide_border=true&border_radius=14&count_private=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadiyevOzodbek&layout=compact&theme=tokyonight&bg_color=0B0F19&title_color=A78BFA&text_color=E2E8F0&hide_border=true&border_radius=14&langs_count=6" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=MuhammadiyevOzodbek&theme=tokyonight&background=0B0F19&ring=A78BFA&fire=0EA5E9&currStreakLabel=A78BFA&hide_border=true&border_radius=14" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadiyevOzodbek&bg_color=0B0F19&color=A78BFA&line=0EA5E9&point=E2E8F0&area=true&area_color=4C1D95&hide_border=true&radius=14" />
 </p>
 
 <!-- ═══════════════════════ SNAKE ═══════════════════════ -->
