@@ -1,65 +1,116 @@
+<!-- ================= HEADER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:2A00FF&height=200&section=header&text=Frontend%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Ozodbek%20Muhammadiyev&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Fullstack%20Developer%20%E2%80%A2%20React%20%E2%80%A2%20Node.js%20%E2%80%A2%20PostgreSQL&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=I+am;Ozodbek+Muhammadiyev;Frontend+Developer;Future+Fullstack+Engineer" />
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Fullstack+JavaScript+Developer;React+%2B+TailwindCSS+on+the+frontend;Node.js+%2B+Express+on+the+backend;PostgreSQL+for+reliable+data;Building+products+end-to-end+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
-## 🎨 Frontend Developer | UI/UX Enthusiast | From Uzbekistan 🇺🇿
+<p align="center">
+  <a href="https://t.me/Muhammadiyev_Ozodbek"><img src="https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://github.com/MuhammadiyevOzodbek"><img src="https://img.shields.io/github/followers/MuhammadiyevOzodbek?label=Followers&style=for-the-badge&logo=github&color=181717" /></a>
+  <img src="https://komarev.com/ghpvc/?username=MuhammadiyevOzodbek&style=for-the-badge&color=38BDF8&label=Profile+Views" />
+</p>
 
-I build modern, fast, and responsive web apps using React and TailwindCSS.
-Focused on simplicity, user-friendliness, and scalable code architecture.
+---
 
-Currently in WORK MODE 🛠 — creating new features, optimizing, and improving designs every single day.
+## 👋 About Me
 
-<hr/>
+<img align="right" width="380" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="" />
 
-## 🎯 My skills
+- 🇺🇿 Fullstack developer from **Uzbekistan**
+- 🎨 Frontend: clean, fast and responsive interfaces with **React** & **TailwindCSS**
+- ⚙️ Backend: REST APIs with **Node.js**, **Express** and **PostgreSQL**
+- 🧠 Care about **UI/UX**, simplicity and scalable code architecture
+- 🛠 Currently in **work mode** — shipping features and improving every day
+- 💬 Ask me about **React, Node.js, SQL, UI design**
 
-### 💻 Frontend skills
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+<br clear="right"/>
 
-### 🧩 UI Libraries & Design Systems
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+---
 
-### ⚙️ Tools & Integrations
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+## 🧰 Tech Stack
 
-### 🌐 Optimization & Deployment
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+<table align="center">
+  <tr>
+    <td align="center" width="140"><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,react&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,postgres,supabase&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Design</b></td>
+    <td><img src="https://skillicons.dev/icons?i=figma&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Tools & Deploy</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel&theme=dark" /></td>
+  </tr>
+</table>
 
-<hr>
+---
 
 ## 🚀 Featured Projects
 
-| Name | Description |
-|------|--------------|
-| 🏢 **UiC Group Clone** | UIC Group website clone built with React JS and TailwindCSS. |
-| 📰 **My Personal Portfolio** | This is a personal project built to improve my React JS and TailwindCSS skills. |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏢 UiC Group Clone</h3>
+      <p>Pixel-accurate clone of the UIC Group website with responsive layout and smooth UI.</p>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/TailwindCSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>📰 Personal Portfolio</h3>
+      <p>My personal website showcasing projects, skills and contact info — fast and mobile-first.</p>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/TailwindCSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🔐 Fullstack API — <i>in progress</i></h3>
+      <p>REST API with authentication (JWT), CRUD endpoints and a PostgreSQL database, connected to a React client.</p>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+    </td>
+  </tr>
+</table>
 
-<hr>
+---
 
-## 🔗 Connect With Me
+## 📊 GitHub Stats
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Muhammadiyev_Ozodbek)
-<!--
-**MuhammadiyevOzodbek/MuhammadiyevOzodbek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MuhammadiyevOzodbek&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadiyevOzodbek&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MuhammadiyevOzodbek&theme=tokyonight&hide_border=true&border_radius=12" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadiyevOzodbek&theme=tokyo-night&hide_border=true&area=true&radius=12" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <i>Open to freelance work, collaborations and interesting fullstack projects.</i>
+  <br/><br/>
+  <a href="https://t.me/Muhammadiyev_Ozodbek"><img src="https://img.shields.io/badge/Write_me_on_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+</p>
+
+<!-- ================= FOOTER ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%" />
+</p>
